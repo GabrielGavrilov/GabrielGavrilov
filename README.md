@@ -10,7 +10,7 @@
 
 - Unity C#
 - Node.JS
-- .Net Framework
+- .NET Framework
 - Python Flask
 
 ## Contact 
