@@ -10,8 +10,14 @@
 
 - Unity C#
 - Node.JS
+- Express.JS
 - .NET Framework
 - Python Flask
+
+### Database languages
+
+- SQLite
+- MongoDB
 
 ## Contact 
 
