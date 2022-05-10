@@ -1,16 +1,19 @@
-### Hi there 👋
+## Languages
 
-<!--
-**GabrielGavrilov/GabrielGavrilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Java
+- C# (C-Sharp)
+- C++ (C-PP)
+- JavaScript
+- Python
 
-Here are some ideas to get you started:
+### Frameworks I'm familiar with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Unity C#
+- Node.JS
+- .Net Framework
+- Python Flask
+
+## Contact 
+
+You will always reach me on my email:<br>
+gabrielgavrilov11@gmail.com
