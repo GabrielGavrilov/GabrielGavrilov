@@ -16,8 +16,9 @@
 
 ### Databases
 
-- SQLite
 - MongoDB
+- SQLite
+- MySQL
 
 ## Contact 
 
