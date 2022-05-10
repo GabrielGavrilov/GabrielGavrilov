@@ -14,7 +14,7 @@
 - .NET Framework
 - Python Flask
 
-### Database languages
+### Databases
 
 - SQLite
 - MongoDB
