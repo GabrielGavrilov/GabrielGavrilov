@@ -2,7 +2,7 @@
 
 - Java
 - C# (C-Sharp)
-- C++ (C-PP)
+- C++
 - JavaScript
 - Python
 
